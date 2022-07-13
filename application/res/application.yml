@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: blog-service
+  function:
+    name: sample-service
