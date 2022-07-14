@@ -10,6 +10,7 @@ Required tools:
 ### Running API locally:
 
 To stay upgraded with database:
+    
     a. ` ./gradlew migration:run`
 
 To run the server:
