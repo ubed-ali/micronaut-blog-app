@@ -1,4 +1,4 @@
-# blog-app
+# micronaut-blog-app
 Blog app using micronaut framework with kotlin and postgresql for database.
 
 
